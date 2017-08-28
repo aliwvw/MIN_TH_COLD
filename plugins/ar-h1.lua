@@ -48,10 +48,9 @@ return [[🏆🏆  اوامر الطرد و المنع👌👇:
  سيرفر مدفوع vpn💳
 يوكف فقط عندما المطورين يرفعون ملفات جديدة او تحديث 
 
- :للتواصل مع المطورين @jozefjonebot
+ :للتواصل مع المطورين @ali_moom
 __________________
-🗯 - Dev - @jozef3
-💭 - Dev - @lllrulll
+🗯 - Dev - @ali_moom
 end
 
 if not is_momod(msg) then
