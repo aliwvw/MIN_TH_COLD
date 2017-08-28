@@ -56,13 +56,9 @@ return [[
  سيرفر مدفوع vpn💳
 يوكف فقط عندما المطورين يرفعون ملف او للتحديث 
 
-للتواصل مع المطور @jozefjonebot
+للتواصل مع المطور @ali_moom
 __________________
-🗯 - Dev - @lllrulll
-🗯 - Dev - @jozef
-- Dev - @ABIN_ALLAH
-من فضلك ان تابع الناة  
-https://telegram.me/joinchat/CLQoVT8ShWEflPtH2pxvLA
+🗯 - Dev - @ali_moom
 ]]
 end
 
